@@ -2,7 +2,7 @@ import { useState } from "react";
 
 interface CounterItemProps {
   value: number;
-  onIncrement:()=>void
+  onIncrement: () => void
 }
 
 const CounterItem = ({ value ,onIncrement }: CounterItemProps) => {
