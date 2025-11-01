@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      
+      <div>Lecture number 8</div>
     </>
   )
 }
